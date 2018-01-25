@@ -158,29 +158,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 -->
 <p id="contact">
   <strong>Contact</strong>:
-  Please email
-  {% if page.contact %}
-    {% for contact in page.contact %}
-      {% if forloop.last and page.contact.size > 1 %}
-        or
-      {% else %}
-        {% unless forloop.first %}
-        ,
-        {% endunless %}
-      {% endif %}
-      <a href='mailto:{{contact}}'>{{contact}}</a>
-    {% endfor %}
-  {% else %}
-    to-be-announced
-  {% endif %}
-  for more information.
+  Please email stephanie.labou@wsu.edu for more information.
 </p>
 
 <hr/>
 
 <h2>Registration</h2>
 <p>
-This event is now full - registration is closed.
+Registration will open soon.
 </p>
 <p>
 
