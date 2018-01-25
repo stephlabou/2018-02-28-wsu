@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Workshop Title"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: stephanie.labou@wsu.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -32,8 +32,8 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/stephlabou/2018-02-28-wsu"
+workshop_site: "https://stephlabou.github.io/2018-02-28-wsu"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
