@@ -165,7 +165,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2>Registration</h2>
 <p>
-The workshop is $25, payable by credit card of Washington State University IRI. Register <a href=https://formtool.wsu.edu/cereo/Signup/index.castle?formid=6>here</a>.
+The workshop is $25, payable by credit card of Washington State University IRI. 
+	Register <a href="https://formtool.wsu.edu/cereo/Signup/index.castle?formid=6">here</a>
 </p>
 <p>
 
