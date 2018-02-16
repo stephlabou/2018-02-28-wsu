@@ -212,7 +212,7 @@ The workshop cost is $25, payable by credit card or Washington State University 
       <tr> <td>9:00</td>  <td><a href="http://swcarpentry.github.io/git-novice/">Version control with Git</a></td></tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>1:00</td>  <td><a href="http://swcarpentry.github.io/python-novice-inflammation/">Python (cont.)</a></td></tr>
+      <tr> <td>1:00</td>  <td><a href="http://swcarpentry.github.io/python-novice-gapminder/">Python (cont.)</a></td></tr>
       <tr> <td>2:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>4:00</td>  <td>Wrap-up</td> </tr>
     </table>
