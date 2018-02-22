@@ -183,7 +183,9 @@ The workshop cost is $25, payable by credit card or Washington State University 
 <p><em>Surveys</em></p>
 {% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.swc_pre_survey }}{{ site.
+	
+	hub.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "dc" %}
   <p>Please be sure to complete these surveys before and after the workshop.</p>
@@ -209,7 +211,7 @@ The workshop cost is $25, payable by credit card or Washington State University 
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>9:00</td>  <td><a href="http://swcarpentry.github.io/git-novice/">Version control with Git</a></td></tr>
+      <tr> <td>9:00</td>  <td><a href="https://biologyguy.github.io/git-novice/">Version control with Git</a></td></tr>
       <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>1:00</td>  <td><a href="http://swcarpentry.github.io/python-novice-gapminder/">Python (cont.)</a></td></tr>
