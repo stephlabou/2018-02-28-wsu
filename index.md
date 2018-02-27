@@ -165,8 +165,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2>Registration</h2>
 <p>
-Registration is now closed.
-</p>
+The workshop cost is $25, payable by credit card or Washington State University IRI. Register <a href="https://formtool.wsu.edu/cereo/Signup/index.castle?formid=6">here</a>.
 <p>
 
 <!--
